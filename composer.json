@@ -1,0 +1,22 @@
+{
+    "name": "lakshmajim/accessor",
+    "description": "Accessor for multiple if conditions",
+    "keywords": [
+        "if", "Laravel", "composer"
+    ],    
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lakshmajim",
+            "email": "lakshmaji9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Lakshmajim\\Accessor\\": "src/"
+        }
+    }
+}
